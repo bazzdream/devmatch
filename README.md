@@ -1,7 +1,8 @@
-# README
+== README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby SaaS Application
+This is only for learning purposes.
+http://oliverbarabas.de
 
 Things you may want to cover:
 
