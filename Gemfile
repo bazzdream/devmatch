@@ -40,7 +40,14 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+# Use devise for user auth
 gem 'devise'
+
+# Use stripe for handling payments
+gem 'stripe'
+
+# Use figaro to hide secret keys
+gem 'figaro'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
